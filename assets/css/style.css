@@ -1,0 +1,16 @@
+body{
+    background-image: url("https://static1.countryclubhills.org/wp-content/uploads//2018/09/Background-Images-2.jpg")
+}
+#goalNum{
+    color: blueviolet
+}
+h1{
+    color: red;
+    text-align: center;
+}
+#tittle{
+    background-color: greenyellow;
+    height: 100px;
+    width: 800px;
+    
+}
